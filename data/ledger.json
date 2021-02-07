@@ -1,1 +1,2 @@
-[]
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000VrcY1Q3lWyp6MpA5zawXbQ\u0000","aliases":[],"id":"VrcY1Q3lWyp6MpA5zawXbQ","name":"SourceCred","subtype":"PROJECT"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1612659578257,"uuid":"RLXrjKPoLoemaFKqpKmOIQ","version":"1"}
+{"action":{"identityId":"VrcY1Q3lWyp6MpA5zawXbQ","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1612659578257,"uuid":"f231zN1IOxHvBLEsd7561A","version":"1"}
